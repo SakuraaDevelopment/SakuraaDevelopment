@@ -1,4 +1,6 @@
 ### Hi there 👋
 
-note: this page only shows my public repositories and 90% of my projects are private lol.
+#### My skills:
+[![My Skills](https://skillicons.dev/icons?i=git,discord,cs,py,nodejs,bots,idea,js,ps,ae,pr,github,blender,unity,visualstudio,vscode)](https://skillicons.dev)
+
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraaDevelopment&theme=dracula&show_icons=true)
