@@ -8,5 +8,8 @@
 
 keep in mind this only tracks my public repositories and 90% of my repositories are private.
 
+![Sakuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuraaDevelopment\&show_icons=true\&theme=radical)
+
+
 ### Profile Views since 7/16/23
 ![ ](https://komarev.com/ghpvc/?username=SakuraaDevelopment&style=flat-square&color=blueviolet)
