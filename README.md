@@ -6,5 +6,5 @@
 
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraaDevelopment&theme=dracula&show_icons=true)
 
-### Profile Views
+### Profile Views since 7/16/23
 ![ ](https://komarev.com/ghpvc/?username=SakuraaDevelopment&style=flat-square&color=blueviolet)
