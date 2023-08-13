@@ -8,6 +8,4 @@
 
 keep in mind this only tracks my public repositories and the majority of my repositories are private.
 
-
-### Profile Views since 7/16/23
 ![ ](https://komarev.com/ghpvc/?username=SakuraaDevelopment&style=flat-square&color=blueviolet)
