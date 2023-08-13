@@ -6,9 +6,7 @@
 
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraaDevelopment&theme=dracula&show_icons=true)
 
-keep in mind this only tracks my public repositories and 90% of my repositories are private.
-
-![Sakuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuraaDevelopment\&show_icons=true\&theme=radical)
+keep in mind this only tracks my public repositories and the majority of my repositories are private.
 
 
 ### Profile Views since 7/16/23
