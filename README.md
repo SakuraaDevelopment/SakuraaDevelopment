@@ -11,6 +11,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SakuraaDevelopment&style=flat-square&color=orange)
 
+![Trackerr](https://github-profile-trophy.vercel.app/?username=SakuraaDevelopment&title=Joined2020,Commits,Experience&theme=onedark)
+
 ## About Me:
 I'm a passionate developer with a solid understanding in a variety of technologies and coding languages. My GitHub showcases my public repositories where I work on exciting projects.
 
