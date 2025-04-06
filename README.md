@@ -6,7 +6,7 @@
 
 
 ## GitHub Stats:
-*Note: This only tracks my public repositories, and the majority of my repositories are private.*
+*Note: This only tracks my public repositories, and the majority (like 99%) of my repositories are private.*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraaDevelopment&theme=dracula&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=SakuraaDevelopment&title=Joined2020,Commits,Experience&theme=onedark)
